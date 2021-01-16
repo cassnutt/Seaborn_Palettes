@@ -1,4 +1,4 @@
-# Seaborn_Palettes
+# Seaborn Palettes
 
 
 This repository includes code that can help visualize each of seaborn's palettes in a practical way using a bar graph.
@@ -13,9 +13,4 @@ There is also a short visual that reviews how to reverse the order of the colors
 For more information, please visit seaborn's website on choosing palette colors:
 https://seaborn.pydata.org/tutorial/color_palettes.html
 
-Feel
-
-
-```python
-
-```
+Feel free to download the PDF to refer back to when needed.
